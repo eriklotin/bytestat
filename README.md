@@ -31,6 +31,6 @@ System provided under GPLv.3 license. See LICENSE file for more details.
 
 # Author
 
-Erik Lotin, https://github.com/lotinerik
+Erik Lotin, https://github.com/eriklotin
 
 2012-10
